@@ -1,0 +1,33 @@
+{
+	"name": "Theme-Waveybat",
+	"displayName": "Waveybat Theme",
+	"description": "Wombat like Theme ported from the Wombat TextMate Theme",
+	"version": "0.0.1",
+	"publisher": "wavey",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Wombat/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Waveybat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Waveybat.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "cc01cbc9-6317-4ac0-bfd7-30fa1b3d42bf",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "wavey"
+	}
+}
