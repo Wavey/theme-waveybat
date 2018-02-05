@@ -11,10 +11,10 @@
 		"Themes"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Wombat/README.md",
+	"homepage": "https://github.com/Wavey/theme-waveybat/blob/master/theme-waveybat/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/gerane/VSCodeThemes.git"
+		"url": "https://github.com/Wavey/theme-waveybat.git"
 	},
 	"contributes": {
 		"themes": [
@@ -26,8 +26,8 @@
 		]
 	},
 	"__metadata": {
-		"id": "cc01cbc9-6317-4ac0-bfd7-30fa1b3d42bf",
-		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"id": "cc01cac9-6317-4ac0-bfd7-30fa1b3d42bf",
+		"publisherId": "abc25faf-bf60-4941-81b9-9a852b96c5fb",
 		"publisherDisplayName": "wavey"
 	}
 }
